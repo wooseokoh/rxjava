@@ -1,4 +1,4 @@
-package lambda;
+package rx1.lambda;
 
 import java.text.SimpleDateFormat;
 

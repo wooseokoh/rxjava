@@ -1,4 +1,4 @@
-package stream;
+package rx1.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -12,6 +12,8 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    implementation group: 'io.reactivex.rxjava3', name: 'rxjava', version: '2.2.21'
+    implementation group: 'org.springframework', name: 'spring-webflux', version: '5.3.20'
 }
 
 test {

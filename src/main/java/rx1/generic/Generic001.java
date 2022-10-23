@@ -1,4 +1,4 @@
-package generic;
+package rx1.generic;
 
 import java.util.ArrayList;
 import java.util.List;

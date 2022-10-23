@@ -1,4 +1,4 @@
-package functional;
+package rx1.functional;
 
 import java.util.Arrays;
 import java.util.List;
